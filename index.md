@@ -1,4 +1,7 @@
-## Welcome 
+
+# Telegram Group
+Support HR3648+GC Reforms (EB India)
+This group link https://bit.ly/EB-GC-ADVOCACY OR https://t.me/joinchat/IhD4czsLtNYzNjM5
 
 # FAQs
 
