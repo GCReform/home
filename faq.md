@@ -1,4 +1,8 @@
-# FAQ
+---
+layout: default
+title: FAQ
+nav_order: 2
+---
 
 ### Is there any concrete bill text showing our immigration provisions? 
 > ...
