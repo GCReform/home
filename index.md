@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-You can use the [editor on GitHub](https://github.com/GCReform/GCReform2021.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# FAQs
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Is there any concrete bill text showing our immigration provisions? 
+...
 
-### Markdown
+### Do we know if there is an active attempt to remove that language in the Senate copy? 
+...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Why are we calling Durbin? 
+...
 
-```markdown
-Syntax highlighted code block
+### wouldn't protesting against us govt be considered a blasphemy and increase risk or denial/deportation? 
+...
 
-# Header 1
-## Header 2
-### Header 3
+### Can Durbin himself individually drop the immigration clauses from the Sentate draft of the bill? Or does the senate judiciary committee vote on each section for finalizing the draft? 
+...
 
-- Bulleted
-- List
+### Does AILA support this bbb provisions?  
+...
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GCReform/GCReform2021.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Are tech companies lobbying against GC backlog elimination?
+...
